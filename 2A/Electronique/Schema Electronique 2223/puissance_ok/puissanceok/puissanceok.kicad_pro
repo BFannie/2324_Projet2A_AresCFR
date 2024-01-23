@@ -350,6 +350,10 @@
     [
       "461af59c-9ba2-44c6-95d1-ce4131c667f6",
       "GPIO_filtering1"
+    ],
+    [
+      "357978fd-11fa-43d8-b5bb-86c1a99de305",
+      "CONNECTEURS"
     ]
   ],
   "text_variables": {}
